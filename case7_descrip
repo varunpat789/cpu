@@ -1,0 +1,10 @@
+Add r1, r2 → 0012 (opcode 0, subop 0, r1, r2)
+Bz r3, 3 → 8303 (opcode 8, r3, immediate 03)
+Add r1, r2 → 0012
+Add r1, r2 → 0012
+Add r3, r4 → 0034 (opcode 0, subop 0, r3, r4)
+Add r1, r2 → 0012
+Add r5, r6 → 0056 (opcode 0, subop 0, r5, r6)
+Put r3 → f300 (opcode F, r3, immediate 00)
+Halt → 7000 (opcode 7, subop 0, 00)
+RetryClaude can make mistakes. Please double-check responses.
