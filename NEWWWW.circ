@@ -3940,6 +3940,7 @@ f600 f200 f800 fa00 7000
     <wire from="(1030,830)" to="(1040,830)"/>
     <wire from="(900,910)" to="(990,910)"/>
     <wire from="(130,290)" to="(130,330)"/>
+    <wire from="(520,940)" to="(550,940)"/>
     <wire from="(610,710)" to="(640,710)"/>
     <wire from="(870,610)" to="(870,770)"/>
     <wire from="(300,380)" to="(450,380)"/>
@@ -3949,6 +3950,7 @@ f600 f200 f800 fa00 7000
     <wire from="(140,330)" to="(210,330)"/>
     <wire from="(1000,1120)" to="(1010,1120)"/>
     <wire from="(1220,700)" to="(1330,700)"/>
+    <wire from="(770,260)" to="(770,270)"/>
     <wire from="(1120,290)" to="(1120,310)"/>
     <wire from="(1270,280)" to="(1270,300)"/>
     <wire from="(1030,930)" to="(1070,930)"/>
@@ -3960,7 +3962,6 @@ f600 f200 f800 fa00 7000
     <wire from="(2310,310)" to="(2330,310)"/>
     <wire from="(1440,1000)" to="(1500,1000)"/>
     <wire from="(390,350)" to="(500,350)"/>
-    <wire from="(770,260)" to="(770,290)"/>
     <wire from="(1460,870)" to="(1510,870)"/>
     <wire from="(1440,730)" to="(1450,730)"/>
     <wire from="(1270,120)" to="(1270,170)"/>
@@ -3968,6 +3969,7 @@ f600 f200 f800 fa00 7000
     <wire from="(110,180)" to="(140,180)"/>
     <wire from="(1140,270)" to="(1150,270)"/>
     <wire from="(810,630)" to="(900,630)"/>
+    <wire from="(520,910)" to="(550,910)"/>
     <wire from="(1480,680)" to="(1550,680)"/>
     <wire from="(810,560)" to="(840,560)"/>
     <wire from="(1690,180)" to="(1700,180)"/>
@@ -4026,7 +4028,6 @@ f600 f200 f800 fa00 7000
     <wire from="(1550,960)" to="(1670,960)"/>
     <wire from="(1370,280)" to="(1380,280)"/>
     <wire from="(1330,940)" to="(1410,940)"/>
-    <wire from="(1230,210)" to="(1300,210)"/>
     <wire from="(2250,560)" to="(2250,570)"/>
     <wire from="(1090,200)" to="(1090,260)"/>
     <wire from="(230,250)" to="(250,250)"/>
@@ -4052,7 +4053,6 @@ f600 f200 f800 fa00 7000
     <wire from="(250,160)" to="(250,250)"/>
     <wire from="(1230,790)" to="(1230,800)"/>
     <wire from="(1270,920)" to="(1270,1120)"/>
-    <wire from="(690,160)" to="(1180,160)"/>
     <wire from="(140,180)" to="(140,210)"/>
     <wire from="(590,140)" to="(590,480)"/>
     <wire from="(1310,710)" to="(1310,720)"/>
@@ -4092,11 +4092,11 @@ f600 f200 f800 fa00 7000
     <wire from="(400,660)" to="(440,660)"/>
     <wire from="(1270,280)" to="(1280,280)"/>
     <wire from="(1090,260)" to="(1100,260)"/>
-    <wire from="(660,290)" to="(690,290)"/>
     <wire from="(710,180)" to="(740,180)"/>
     <wire from="(330,770)" to="(350,770)"/>
     <wire from="(1870,400)" to="(1880,400)"/>
     <wire from="(1330,960)" to="(1460,960)"/>
+    <wire from="(520,950)" to="(550,950)"/>
     <wire from="(830,440)" to="(1310,440)"/>
     <wire from="(1280,430)" to="(1310,430)"/>
     <wire from="(190,120)" to="(1100,120)"/>
@@ -4125,6 +4125,7 @@ f600 f200 f800 fa00 7000
     <wire from="(60,390)" to="(60,480)"/>
     <wire from="(1530,710)" to="(1530,720)"/>
     <wire from="(880,850)" to="(990,850)"/>
+    <wire from="(770,270)" to="(770,290)"/>
     <wire from="(1030,870)" to="(1110,870)"/>
     <wire from="(1550,690)" to="(1560,690)"/>
     <wire from="(1560,700)" to="(1570,700)"/>
@@ -4133,7 +4134,7 @@ f600 f200 f800 fa00 7000
     <wire from="(1070,210)" to="(1080,210)"/>
     <wire from="(1370,230)" to="(1370,280)"/>
     <wire from="(340,740)" to="(370,740)"/>
-    <wire from="(1160,210)" to="(1230,210)"/>
+    <wire from="(520,920)" to="(550,920)"/>
     <wire from="(1230,1050)" to="(1230,1110)"/>
     <wire from="(920,930)" to="(990,930)"/>
     <wire from="(730,550)" to="(730,600)"/>
@@ -4192,6 +4193,7 @@ f600 f200 f800 fa00 7000
     <wire from="(1070,860)" to="(1070,930)"/>
     <wire from="(910,1080)" to="(950,1080)"/>
     <wire from="(1230,740)" to="(1290,740)"/>
+    <wire from="(1240,200)" to="(1240,210)"/>
     <wire from="(1080,200)" to="(1080,210)"/>
     <wire from="(140,630)" to="(180,630)"/>
     <wire from="(1450,730)" to="(1450,740)"/>
@@ -4215,7 +4217,6 @@ f600 f200 f800 fa00 7000
     <wire from="(780,190)" to="(780,200)"/>
     <wire from="(810,620)" to="(860,620)"/>
     <wire from="(810,610)" to="(870,610)"/>
-    <wire from="(690,160)" to="(690,290)"/>
     <wire from="(120,650)" to="(120,660)"/>
     <wire from="(220,270)" to="(220,280)"/>
     <wire from="(930,1050)" to="(990,1050)"/>
@@ -4227,7 +4228,6 @@ f600 f200 f800 fa00 7000
     <wire from="(1910,600)" to="(2290,600)"/>
     <wire from="(860,910)" to="(860,930)"/>
     <wire from="(750,450)" to="(1310,450)"/>
-    <wire from="(1180,110)" to="(1180,160)"/>
     <wire from="(1160,90)" to="(1160,140)"/>
     <wire from="(840,810)" to="(990,810)"/>
     <wire from="(2330,300)" to="(2330,310)"/>
@@ -4250,6 +4250,7 @@ f600 f200 f800 fa00 7000
     <wire from="(990,690)" to="(990,720)"/>
     <wire from="(1450,740)" to="(1510,740)"/>
     <wire from="(950,1060)" to="(990,1060)"/>
+    <wire from="(1240,210)" to="(1300,210)"/>
     <wire from="(1080,1100)" to="(1080,1110)"/>
     <wire from="(140,410)" to="(180,410)"/>
     <wire from="(1590,420)" to="(1590,670)"/>
@@ -4257,6 +4258,7 @@ f600 f200 f800 fa00 7000
     <wire from="(1030,1010)" to="(1040,1010)"/>
     <wire from="(860,620)" to="(860,790)"/>
     <wire from="(1030,1050)" to="(1230,1050)"/>
+    <wire from="(520,960)" to="(550,960)"/>
     <wire from="(640,280)" to="(670,280)"/>
     <wire from="(1730,270)" to="(1740,270)"/>
     <wire from="(1440,850)" to="(1510,850)"/>
@@ -4284,10 +4286,12 @@ f600 f200 f800 fa00 7000
     <wire from="(990,690)" to="(1290,690)"/>
     <wire from="(1010,710)" to="(1310,710)"/>
     <wire from="(490,330)" to="(580,330)"/>
+    <wire from="(1160,210)" to="(1240,210)"/>
     <wire from="(40,290)" to="(70,290)"/>
     <wire from="(1030,810)" to="(1050,810)"/>
     <wire from="(450,380)" to="(480,380)"/>
     <wire from="(1030,890)" to="(1100,890)"/>
+    <wire from="(520,930)" to="(550,930)"/>
     <wire from="(710,230)" to="(800,230)"/>
     <wire from="(1030,770)" to="(1290,770)"/>
     <wire from="(2100,330)" to="(2100,380)"/>
@@ -4302,10 +4306,8 @@ f600 f200 f800 fa00 7000
     <wire from="(630,800)" to="(710,800)"/>
     <wire from="(840,190)" to="(840,240)"/>
     <wire from="(720,700)" to="(1030,700)"/>
-    <wire from="(770,250)" to="(770,260)"/>
     <wire from="(1880,400)" to="(1880,430)"/>
     <wire from="(820,550)" to="(820,750)"/>
-    <wire from="(1180,110)" to="(1220,110)"/>
     <wire from="(1060,830)" to="(1290,830)"/>
     <wire from="(1100,70)" to="(1330,70)"/>
     <wire from="(1170,170)" to="(1270,170)"/>
@@ -4320,6 +4322,7 @@ f600 f200 f800 fa00 7000
     <wire from="(1310,270)" to="(1320,270)"/>
     <wire from="(1080,200)" to="(1090,200)"/>
     <wire from="(900,1030)" to="(990,1030)"/>
+    <wire from="(520,900)" to="(550,900)"/>
     <wire from="(1920,240)" to="(1930,240)"/>
     <wire from="(830,250)" to="(860,250)"/>
     <wire from="(1680,160)" to="(1690,160)"/>
@@ -4336,7 +4339,6 @@ f600 f200 f800 fa00 7000
     <wire from="(900,630)" to="(900,910)"/>
     <wire from="(2320,290)" to="(2330,290)"/>
     <wire from="(1070,1030)" to="(1070,1100)"/>
-    <wire from="(1230,200)" to="(1230,210)"/>
     <wire from="(1040,170)" to="(1040,190)"/>
     <wire from="(1010,1100)" to="(1010,1120)"/>
     <wire from="(1550,680)" to="(1550,690)"/>
@@ -4380,6 +4382,7 @@ f600 f200 f800 fa00 7000
     <wire from="(650,220)" to="(650,580)"/>
     <wire from="(1320,220)" to="(1330,220)"/>
     <wire from="(1230,130)" to="(1240,130)"/>
+    <wire from="(1210,110)" to="(1220,110)"/>
     <wire from="(1280,980)" to="(1290,980)"/>
     <wire from="(190,280)" to="(190,380)"/>
     <wire from="(2290,590)" to="(2290,600)"/>
@@ -4412,6 +4415,7 @@ f600 f200 f800 fa00 7000
     <wire from="(1360,230)" to="(1370,230)"/>
     <wire from="(80,570)" to="(300,570)"/>
     <wire from="(770,260)" to="(800,260)"/>
+    <wire from="(520,970)" to="(550,970)"/>
     <wire from="(1850,280)" to="(1850,330)"/>
     <wire from="(1330,700)" to="(1550,700)"/>
     <wire from="(380,850)" to="(390,850)"/>
@@ -4485,6 +4489,10 @@ f600 f200 f800 fa00 7000
       <a name="facing" val="north"/>
       <a name="label" val="EX.MemRead"/>
     </comp>
+    <comp lib="0" loc="(570,980)" name="Tunnel">
+      <a name="width" val="8"/>
+      <a name="label" val="imm_address"/>
+    </comp>
     <comp lib="0" loc="(1580,850)" name="Tunnel">
       <a name="width" val="3"/>
       <a name="label" val="WB.Rs"/>
@@ -4510,6 +4518,17 @@ f600 f200 f800 fa00 7000
       <a name="facing" val="east"/>
       <a name="width" val="3"/>
       <a name="label" val="EX.Rt"/>
+    </comp>
+    <comp lib="0" loc="(1210,110)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="8"/>
+      <a name="label" val="imm_address"/>
+    </comp>
+    <comp lib="0" loc="(570,980)" name="Splitter">
+      <a name="facing" val="west"/>
+      <a name="fanout" val="8"/>
+      <a name="incoming" val="8"/>
+      <a name="appear" val="right"/>
     </comp>
     <comp lib="0" loc="(230,900)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -4555,7 +4574,16 @@ f600 f200 f800 fa00 7000
       <a name="facing" val="north"/>
       <a name="label" val="ZerosToALU"/>
     </comp>
+    <comp lib="0" loc="(500,1060)" name="Splitter">
+      <a name="fanout" val="16"/>
+      <a name="incoming" val="16"/>
+    </comp>
     <comp lib="5" loc="(2340,520)" name="Hex Digit Display"/>
+    <comp lib="0" loc="(500,1060)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="EX.imm"/>
+    </comp>
     <comp lib="0" loc="(1260,300)" name="Constant">
       <a name="width" val="16"/>
       <a name="value" val="0x0"/>
@@ -4674,10 +4702,6 @@ f600 f200 f800 fa00 7000
     </comp>
     <comp lib="5" loc="(240,290)" name="Button">
       <a name="facing" val="north"/>
-    </comp>
-    <comp lib="0" loc="(770,250)" name="Probe">
-      <a name="facing" val="west"/>
-      <a name="radix" val="10signed"/>
     </comp>
     <comp loc="(1340,430)" name="Shifter">
       <a name="label" val="Shifter"/>
@@ -4839,8 +4863,8 @@ f600 f200 f800 fa00 7000
     <comp lib="4" loc="(410,250)" name="ROM">
       <a name="dataWidth" val="16"/>
       <a name="contents">addr/data: 8 16
-16f6 1914 1206 1afe 1d03 8c0 22c0 b80
-f600 f200 f800 fa00 7000
+12 8303 12 12 34 12 56 f300
+7000
 </a>
     </comp>
     <comp loc="(1030,720)" name="ID/EX_Buffer">
@@ -4887,6 +4911,11 @@ f600 f200 f800 fa00 7000
     <comp lib="0" loc="(1040,990)" name="Tunnel">
       <a name="width" val="16"/>
       <a name="label" val="EX.Rs_data"/>
+    </comp>
+    <comp lib="0" loc="(1240,200)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="EX.MemWriteData"/>
     </comp>
     <comp lib="0" loc="(1110,870)" name="Tunnel">
       <a name="label" val="IMMtoPC"/>
@@ -5047,6 +5076,10 @@ f600 f200 f800 fa00 7000
       <a name="width" val="16"/>
       <a name="label" val="MEM.MemWriteData"/>
     </comp>
+    <comp lib="0" loc="(770,270)" name="Probe">
+      <a name="facing" val="west"/>
+      <a name="radix" val="10signed"/>
+    </comp>
     <comp lib="6" loc="(2345,89)" name="Text">
       <a name="text" val="WB"/>
       <a name="font" val="SansSerif plain 26"/>
@@ -5103,11 +5136,6 @@ f600 f200 f800 fa00 7000
     </comp>
     <comp lib="0" loc="(2340,600)" name="Tunnel">
       <a name="label" val="RST"/>
-    </comp>
-    <comp lib="0" loc="(1230,200)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="EX.MemWriteData"/>
     </comp>
     <comp lib="5" loc="(2380,520)" name="Hex Digit Display"/>
   </circuit>
